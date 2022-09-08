@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
   },
   box: {
     flex : 1,
-    backgroundColor: 'skyblue',
+    backgroundColor: 'black',
     width:500,
     alignItems:'center',
     justifyContent:'center'
